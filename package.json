@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/TanushaVeraksa/lesson-npm#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
